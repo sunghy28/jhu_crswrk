@@ -1,0 +1,19 @@
+NET clk PERIOD=20.8ns;	
+NET xin PERIOD=2.6ns;
+
+NET clk   LOC=P50;
+NET xin   LOC=P126;
+NET xout  LOC=P124;
+
+NET ra1   LOC=P39;
+NET rc1   LOC=P70;
+NET rc3   LOC=P64;
+
+NET rb<7> LOC=P65;
+NET rb<6> LOC=P62;
+NET rb<5> LOC=P61;
+NET rb<4> LOC=P46;
+NET rb<3> LOC=P45;
+NET rb<2> LOC=P44;
+NET rb<1> LOC=P43;
+NET rb<0> LOC=P48;
