@@ -1,3 +1,2 @@
-# A Basic FPGA implementation for an MNIST multilayer-perceptron network
-
-A project to begin my FPGA AI journey. 
+# FPGA Laboratory Repository
+Repository to hold the VHDL files I wrote for EN.520.424
