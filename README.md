@@ -9,3 +9,6 @@ Lab 7 - Serial Converter
 * Part C: I2C
 
 Lab 8 - Frequency Counter
+
+Things to note: 
+* The MATLAB GUI files as well as the VHDL GUI files were provided by the instructor to facilitate interface with the submission files. 
